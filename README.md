@@ -38,3 +38,4 @@ This is a project management tool similar to Trello. You can make boards with co
   - PSQL_PASSWORD="password"
   - PSQL_HOST="localhost"
   - PSQL_DB_NAME="database name"
+- Run main.py file and open the page in a browser
